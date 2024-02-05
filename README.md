@@ -13,4 +13,4 @@ This GitHub repository contains a simple web page that showcases words with it's
 
 ## Demo
 
-Check out the live demo [here]()
+Check out the live demo [here](https://dictionary-manu.netlify.app/)
